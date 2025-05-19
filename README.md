@@ -15,8 +15,8 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/emreömer-yıldız" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="undefinedhttps://medium.com/@yldzemre27" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/emre-%C3%B6mer-y%C4%B1ld%C4%B1z/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://medium.com/@yldzemre27" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yldzEmreOmer&show_icons=true&locale=en" alt="yldzEmreOmer" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yldzEmreOmer&" alt="yldzEmreOmer" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yldzEmreOmer&show_icons=true&locale=en&layout=compact" alt="yldzEmreOmer" /></p>
