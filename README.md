@@ -1,3 +1,4 @@
+<img src="./profile-photo.png" alt="Profile Photo" width="600" height="600"/>
 <h1>Hi 👋, I'm Emre | Backend Developer💻</h1>
 <p>🎓 A Software Engineering graduate from Bahçeşehir University.</p>
 <p>💡 I'm passionate about building scalable backend systems and contributing to meaningful, real-world projects.</p>
