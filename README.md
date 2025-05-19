@@ -20,4 +20,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yldzEmreOmer&show_icons=true&locale=en" alt="yldzEmreOmer" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yldzEmreOmer&" alt="yldzEmreOmer" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yldzEmreOmer&show_icons=true&locale=en&layout=compact" alt="yldzEmreOmer" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yldzEmreOmer" alt="yldzEmreOmer" /></a></p>
+
